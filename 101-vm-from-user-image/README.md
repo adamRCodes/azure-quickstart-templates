@@ -19,7 +19,7 @@ If you are looking to accomplish the above scenario through PowerShell instead o
     $location = "westus"
 
     ## Storage
-    $storageName = "teststore"
+    $storageName = "teststore" //Storage Account name
     $storageType = "Standard_GRS"
 
     ## Network
